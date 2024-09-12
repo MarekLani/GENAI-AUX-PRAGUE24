@@ -171,3 +171,13 @@ Understand the core business challenges faced by Tech Solutions Inc. and outline
    - [Generative AI Knowledge Base Sample Architecture](https://github.com/MarekLani/GENAI-AUX-PRAGUE24/blob/main/docs/GCP-Generative%20AI%20Knowledge%20Base.pdf)
    - [Generative AI RAG with Cloud SQL Sample Architecture](https://github.com/MarekLani/GENAI-AUX-PRAGUE24/blob/main/docs/GCP-Generative%20AI%20RAG%20with%20Cloud%20SQL.pdf)
    - [AI document summarization Sample Architecture](https://github.com/MarekLani/GENAI-AUX-PRAGUE24/blob/main/docs/GCP-Generative%20AI%20document%20summarization.pdf)
+   - [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator?hl=en)
+ 
+- **Amazon Web Services**
+   - [Decission Guide Bedrock vs SageMaker](https://docs.aws.amazon.com/decision-guides/latest/bedrock-or-sagemaker/bedrock-or-sagemaker.html)
+   - [What is AWS Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html)
+   - [Retrieve data and generate AI responses with knowledge bases](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base.html)
+   - [RAG Implementations on AWS](https://abhishek-reddy.medium.com/comparison-of-rag-implementations-on-aws-bedrock-knowledge-bases-vs-19c2995dc12d)
+   - [Hardening RAG Chatbot Architecture](https://aws.amazon.com/blogs/security/hardening-the-rag-chatbot-architecture-powered-by-amazon-bedrock-blueprint-for-secure-design-and-anti-pattern-migration/)
+   - [Intelligent Search Service - Amazon Kendra](https://docs.aws.amazon.com/kendra/latest/dg/what-is-kendra.html)
+   - [AWS Pricing Calculator](https://calculator.aws/#/)
