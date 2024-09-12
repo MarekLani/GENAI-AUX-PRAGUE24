@@ -146,8 +146,7 @@ Understand the core business challenges faced by Tech Solutions Inc. and outline
 
 10. **Business Case Development:**
     - **Success Metrics:** Expand on how to measure the effectiveness of the implemented AI system. Beyond KPIs like response time and conversion rates, include qualitative metrics like customer satisfaction (e.g., through surveys) and the perceived value of responses from both the customer's and sales team's perspectives.
-    - Use the provided template and develop a business case for the proposed solution, detailing the expected benefits, ROI, and impact on sales efficiency and customer engagement.
-    - Present the business case to Tech Solutions Inc.'s decision-makers for approval to proceed to the next phase.
+    - Use the provided **[template](https://github.com/MarekLani/GENAI-AUX-PRAGUE24/blob/main/docs/Bussiness%20Case%20Template.md)** and develop a business case for the proposed solution, detailing the expected benefits, ROI, and impact on sales efficiency and customer engagement.
 
 11. **Continuous Improvement (Optional):**
     - Outline a process for iterative improvement. Suggest how to set up feedback loops in the system so that the AI model improves over time through reinforcement learning or fine-tuning based on user feedback.
