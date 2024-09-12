@@ -152,4 +152,6 @@ Understand the core business challenges faced by Tech Solutions Inc. and outline
     - Outline a process for iterative improvement. Suggest how to set up feedback loops in the system so that the AI model improves over time through reinforcement learning or fine-tuning based on user feedback.
 
 ## References
+- **Architecture Diagram Designer - [draw.io](https://app.diagrams.net/)**
+- **Prototype Building Tool - [Figma](https://www.figma.com/)**
 
