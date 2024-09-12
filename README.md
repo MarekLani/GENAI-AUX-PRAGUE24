@@ -87,3 +87,70 @@ Below you can find details on Tech Solutions’ IT Environment:
 - **External Data Sources / Data Enrichment**
   - **Public Data Platforms (LinkedIn, Twitter):**
     - Tech Solutions Inc. aims to leverage publicly available data from platforms such as LinkedIn, Twitter, and other networks where their potential customers may be active. This data enrichment can provide deeper insights into customer behavior and enhance the accuracy of AI-generated responses.
+---   
+## Workshop Focus
+
+This workshop will guide participants through the process of navigating generative AI opportunities, focusing on essential skills in opportunity scoping, discovery, and solution design. Participants will engage with a simulated customer scenario to develop an understanding of how to assess and design AI-driven solutions.
+
+**Key Learning Outcomes:**
+
+- **Opportunity Scoping:** You will learn how to identify and assess opportunities for applying generative AI, focusing on understanding client needs, existing pain points, and potential impact areas.
+- **Discovery and Needs Assessment:** During the workshop, you will go through a simulated discovery session with client stakeholders, helping them uncover detailed business challenges, technological constraints, and goals that can be addressed through AI solutions.
+- **AI Solution Ideation and Design:** You will explore designing a high-level AI solution tailored to a client’s business needs. Emphasis should be placed on aligning AI capabilities with business objectives, balancing automation with human oversight, and ensuring data security and compliance.
+- **Building a Business Case for AI Solutions:** You will learn how to craft compelling business cases for AI projects, including quantifying the potential ROI, outlining the key benefits to the client’s operations, and demonstrating how the proposed solution aligns with their long-term strategy.
+
+By the end of the workshop, you will have developed the foundational skills required to consult on and design generative AI solutions.
+
+## Workshop Setup - Challenges
+
+Understand the core business challenges faced by Tech Solutions Inc. and outline potential solutions to address these challenges.
+
+**Steps:**
+
+1. **Initial Consultation and Discovery:**
+   - Conduct an in-depth consultation with key stakeholders at Tech Solutions Inc. to understand their current sales processes and pain points.
+   - Identify specific challenges related to managing sales inquiries, customer engagement, and conversion rates.
+
+2. **Problem Definition:**
+   - Clearly define the primary business challenge: improving the sales inquiry handling process.
+   - Break down the challenge into specific areas: communication channels, inquiry management, providing relevant information, supporting the sales team, and drafting personalized messages.
+
+3. **Solution Ideation:**
+   - Brainstorm potential solutions to address the identified challenges.
+   - Discuss the benefits of automating the sales inquiry process using AI technologies.
+   - Highlight the importance of providing timely and relevant information to customers, creating comprehensive sales briefings, and generating personalized messages.
+
+4. **AI Ethics:** 
+   - Dedicate a small section to discussing the ethical implications of using AI in sales, such as the balance between automation and human touch, and the need for transparency when AI is involved in customer interactions.
+
+5. **Security and Compliance:**
+   - Address the importance of data protection, including strategies for ensuring compliance with regulations like GDPR.
+
+6. **Technical Requirements Gathering:**
+   - Identify the technical requirements for the Sales Accepted Lead Support Expert System.
+   - Determine the necessary integrations with existing systems (CRM, communication platforms, databases).
+   - Define data sources for gathering customer information (internal and external).
+
+7. **Technology Selection:**
+   - **Tool Evaluation Matrix:** Introduce an evaluation matrix that participants can use to assess different AI tools and platforms based on criteria such as ease of integration, cost, scalability, and security. This will help participants develop a more structured approach to technology selection.
+   - Evaluate different AI technologies and platforms suitable for implementing the solution.
+   - Discuss the advantages of using Generative AI and the RAG pattern for providing relevant responses.
+   - Select the optimal technology stack that aligns with Tech Solutions Inc.'s requirements and capabilities.
+
+8. **Prototype Building:**
+   - Sketch out wireframes or a low-fidelity prototype of the Sales Accepted Lead Support Expert System. This can help in visualizing the system architecture and flow of inquiries through various stages (reception, categorization, information gathering, etc.).
+
+9. **Solution Architecture Design:**
+   - Design the architecture for the automated sales inquiry handling system.
+   - Outline the components and workflow: inquiry reception, information request, automated response, sales briefing creation, and message drafting.
+
+10. **Business Case Development:**
+    - **Success Metrics:** Expand on how to measure the effectiveness of the implemented AI system. Beyond KPIs like response time and conversion rates, include qualitative metrics like customer satisfaction (e.g., through surveys) and the perceived value of responses from both the customer's and sales team's perspectives.
+    - Use the provided template and develop a business case for the proposed solution, detailing the expected benefits, ROI, and impact on sales efficiency and customer engagement.
+    - Present the business case to Tech Solutions Inc.'s decision-makers for approval to proceed to the next phase.
+
+11. **Continuous Improvement (Optional):**
+    - Outline a process for iterative improvement. Suggest how to set up feedback loops in the system so that the AI model improves over time through reinforcement learning or fine-tuning based on user feedback.
+
+## References
+
