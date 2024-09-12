@@ -155,3 +155,10 @@ Understand the core business challenges faced by Tech Solutions Inc. and outline
 - **Architecture Diagram Designer - [draw.io](https://app.diagrams.net/)**
 - **Prototype Building Tool - [Figma](https://www.figma.com/)**
 
+- **Microsoft Azure**
+   - [What is Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
+   - [Azure OpenAI Service - Assistants](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/assistants)
+   - [Understand Embeddings in Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/understand-embeddings)
+   - [Azure OpenAI on your Data](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search%2Ccopilot)
+   - [Retrieval Augmented Generation(RAG) with Azure OpenAI](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
+   - [Azure OpenAI Deployment and Networking Patterns](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-openai-architecture-patterns-and-implementation-steps/ba-p/3979934)
