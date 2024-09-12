@@ -74,8 +74,6 @@ Below you can find details on Tech Solutions’ IT Environment:
 - **Core IT Infrastructure**
   - **Cloud Providers (AWS, Azure, Google Cloud):**
     - As a company specializing in IT infrastructure, Tech Solutions Inc. utilizes cloud service providers to host their own infrastructure and deliver solutions to clients. This allows for scalability and flexibility in managing operations.
-  - **Hybrid Cloud Setup:**
-    - The company might employ a hybrid model, combining on-premises systems for sensitive data with cloud services for other operations. This setup could influence the deployment of new AI solutions, particularly with regard to data security and accessibility.
 - **Customer Relationship Management (CRM)**
   - Tech Solutions Inc. uses Salesforce as their primary CRM system. It is the central tool for managing customer interactions, tracking sales pipelines, and handling inquiries. Integration with AI will be key to automating and enhancing the sales inquiry process.
 - **Productivity Tools**
