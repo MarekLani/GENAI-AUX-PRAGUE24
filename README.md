@@ -162,3 +162,7 @@ Understand the core business challenges faced by Tech Solutions Inc. and outline
    - [Azure OpenAI on your Data](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search%2Ccopilot)
    - [Retrieval Augmented Generation(RAG) with Azure OpenAI](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
    - [Azure OpenAI Deployment and Networking Patterns](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-openai-architecture-patterns-and-implementation-steps/ba-p/3979934)
+   - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator)
+ 
+- **Google Cloud Platform**
+   - []
