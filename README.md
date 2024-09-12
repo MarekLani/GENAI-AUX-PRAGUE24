@@ -165,6 +165,6 @@ Understand the core business challenges faced by Tech Solutions Inc. and outline
    - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator)
  
 - **Google Cloud Platform**
-   - [Generative AI Knowledge Base Sample Architecture](https://github.com/MarekLani/GENAI-AUX-PRAGUE24/blob/main/docs/GCP-Generative AI Knowledge Base.pdf)
-   - [Generative AI RAG with Cloud SQL Sample Architecture](https://github.com/MarekLani/GENAI-AUX-PRAGUE24/blob/main/docs/GCP-Generative AI RAG with Cloud SQL.pdf)
-   - [AI document summarization Sample Architecture](https://github.com/MarekLani/GENAI-AUX-PRAGUE24/blob/main/docs/GCP-Generative AI document summarization.pdf)
+   - [Generative AI Knowledge Base Sample Architecture](https://github.com/MarekLani/GENAI-AUX-PRAGUE24/blob/main/docs/GCP-Generative%20AI%20Knowledge%20Base.pdf)
+   - [Generative AI RAG with Cloud SQL Sample Architecture](https://github.com/MarekLani/GENAI-AUX-PRAGUE24/blob/main/docs/GCP-Generative%20AI%20RAG%20with%20Cloud%20SQL.pdf)
+   - [AI document summarization Sample Architecture](https://github.com/MarekLani/GENAI-AUX-PRAGUE24/blob/main/docs/GCP-Generative%20AI%20document%20summarization.pdf)
