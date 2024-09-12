@@ -1,4 +1,4 @@
-# GENAI-AUX-PRAGUE24
+# GEN-AI-WORKSHOP-AUX-PRAGUE24
 
 This workshop is designed to immerse participants in the world of Generative AI, focusing on real-world applications that drive business transformation. Participants will explore the opportunity scoping, discovery, and solution design phases of AI projects through a simulated scenario with Tech Solutions Inc., a technology company facing challenges in managing their growing volume of sales inquiries. As part of the workshop, you'll work on developing AI-driven solutions to streamline their sales inquiry process, improve customer engagement, and enhance conversion rates. By the end of this course, you'll have hands-on experience in crafting business cases for AI projects, designing high-level AI solutions, and aligning technology with business objectives. Dive in and get ready to solve real business challenges using the power of Generative AI!
 
